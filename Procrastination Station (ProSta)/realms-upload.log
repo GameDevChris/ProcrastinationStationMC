@@ -1,0 +1,14 @@
+Removed world/DIM-1/data/raids.dat: not used
+Removed world/DIM-1/poi/r.-1.0.mca: not used
+Removed world/gc-logs/gc-20200718_1352.log: not used
+Removed world/gc-logs/gc-20200720_0844.log: not used
+Removed world/gc-logs/gc-20200721_1816.log: not used
+Removed world/playerdata/00359a42-fe6a-4029-8df4-2d02f0dc4939.dat_old: not used
+Removed world/playerdata/21eabfaa-d19c-4879-b7f9-0c7e8649d265.dat_old: not used
+Removed world/playerdata/4dbd1f6a-822d-4866-ab20-31e36623d3f4.dat_old: not used
+Removed world/playerdata/57a17eb2-02ef-411a-8340-3dba0207342e.dat_old: not used
+Removed world/playerdata/591ea41f-d4b3-48e9-98e3-5edfca98d165.dat_old: not used
+Removed world/playerdata/aaa2e63b-0ee5-4284-8da3-a20363d63c8b.dat_old: not used
+Removed world/poi/r.-2.15.mca: 0 size
+Removed world/poi/r.-3.14.mca: 0 size
+Validated 4187 files, 4174 accepted, 13 rejected.

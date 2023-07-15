@@ -1,0 +1,137 @@
+{
+  "main:main/mmh": {
+    "criteria": {
+      "tick": "2020-07-26 20:32:58 +0000"
+    },
+    "done": true
+  },
+  "main:main/kill_empty_boats": {
+    "criteria": {
+      "tick": "2020-07-26 20:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-07-26 20:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-07-26 20:34:00 +0000"
+    },
+    "done": true
+  },
+  "as:enable": {
+    "criteria": {
+      "tick": "2020-07-26 20:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-07-26 20:34:00 +0000"
+    },
+    "done": true
+  },
+  "main:main/anti_enderman": {
+    "criteria": {
+      "tick": "2020-07-26 20:32:58 +0000"
+    },
+    "done": true
+  },
+  "main:main/acg": {
+    "criteria": {
+      "tick": "2020-07-26 20:32:58 +0000"
+    },
+    "done": true
+  },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2020-07-26 20:32:58 +0000"
+    },
+    "done": true
+  },
+  "main:main/player_head_drops": {
+    "criteria": {
+      "tick": "2020-07-26 20:32:58 +0000"
+    },
+    "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-07-26 20:34:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-07-26 20:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-07-26 20:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cookie": "2020-07-26 20:36:06 +0000"
+    },
+    "done": false
+  },
+  "main:main/as": {
+    "criteria": {
+      "tick": "2020-07-26 20:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-07-26 20:34:00 +0000"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-07-26 20:32:58 +0000"
+    },
+    "done": true
+  },
+  "main:main/anti_ghast": {
+    "criteria": {
+      "tick": "2020-07-26 20:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-07-26 20:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-07-26 20:39:40 +0000",
+      "minecraft:mountains": "2020-07-26 20:39:51 +0000",
+      "minecraft:mushroom_fields": "2020-07-26 20:34:27 +0000",
+      "minecraft:birch_forest": "2020-07-26 20:38:33 +0000",
+      "minecraft:deep_lukewarm_ocean": "2020-07-26 20:38:18 +0000",
+      "minecraft:badlands": "2020-07-26 20:42:28 +0000",
+      "minecraft:beach": "2020-07-26 20:38:29 +0000",
+      "minecraft:dark_forest": "2020-07-26 20:52:18 +0000",
+      "minecraft:river": "2020-07-26 20:38:28 +0000",
+      "minecraft:lukewarm_ocean": "2020-07-26 20:38:17 +0000",
+      "minecraft:birch_forest_hills": "2020-07-26 20:39:49 +0000",
+      "minecraft:wooded_mountains": "2020-07-26 20:43:28 +0000",
+      "minecraft:stone_shore": "2020-07-26 20:43:11 +0000",
+      "minecraft:mushroom_field_shore": "2020-07-26 20:32:58 +0000",
+      "minecraft:plains": "2020-07-26 20:41:41 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2567
+}
